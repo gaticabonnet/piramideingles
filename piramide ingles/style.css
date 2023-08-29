@@ -1,0 +1,13 @@
+.banner {
+    background-image: url("./img/istockphoto-1254272744-170667a.jpg");
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}  
+body{
+    background-color: burlywood;
+}
+h1:hover{
+    text-shadow: 5px 2px 10px blue;}
